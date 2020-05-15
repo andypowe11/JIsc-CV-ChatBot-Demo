@@ -6,6 +6,6 @@ The UK government Coronavirus outbreak FAQs: what you can and can't do https://w
 
 The OfS Students Student Guide to Coronavirus https://www.officeforstudents.org.uk/for-students/student-guide-to-coronavirus/questions-and-answers/
 
-The University of Birmingham Coronavirus (COVID-19) FAQs for students [https://intranet.birmingham.ac.uk/student/coronavirus/Coronavirus-FAQs-for-students.aspx
+The University of Birmingham Coronavirus (COVID-19) FAQs for students https://intranet.birmingham.ac.uk/student/coronavirus/Coronavirus-FAQs-for-students.aspx
 
 THe first two sources are combined into the uk-gov-plus-ofs.tsv file because a maximum of 3 TSV files can be imported during the build of a knowledge base using QnAMaker.
