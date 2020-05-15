@@ -1,6 +1,8 @@
 TSV files for a simple Microsoft chatbot answering questions about coronavirus for the University of Birmingham. Based on publicly available FAQs from various sources.
 
-Sources of information: The UK government Coronavirus outbreak FAQs: what you can and can't do https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
+Sources of information
+
+The UK government Coronavirus outbreak FAQs: what you can and can't do https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do
 
 The OfS Students Student Guide to Coronavirus https://www.officeforstudents.org.uk/for-students/student-guide-to-coronavirus/questions-and-answers/
 
